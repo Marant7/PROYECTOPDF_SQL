@@ -1,23 +1,32 @@
-# Establece la imagen base para la construcción de la aplicación
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 80
-EXPOSE 443
-
-# Establece la imagen base para la construcción de la aplicación
+# Usamos la imagen base de SDK de .NET para construir el proyecto
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+
+# Establecemos el directorio de trabajo
 WORKDIR /src
-COPY ["proyectopdf/proyectopdf.csproj", "proyectopdf/"]
-RUN dotnet restore "proyectopdf/proyectopdf.csproj"
+
+# Copiamos el archivo .csproj del proyecto PROYECTOPDF al contenedor
+COPY ["PROYECTOPDF/proyectopdf.csproj", "PROYECTOPDF/"]
+
+# Restauramos las dependencias del proyecto
+RUN dotnet restore "PROYECTOPDF/proyectopdf.csproj"
+
+# Copiamos el resto del código
 COPY . .
-WORKDIR "/src/proyectopdf"
-RUN dotnet build "proyectopdf.csproj" -c Release -o /app/build
 
-FROM build AS publish
-RUN dotnet publish "proyectopdf.csproj" -c Release -o /app/publish
+# Publicamos el proyecto
+RUN dotnet publish "PROYECTOPDF/proyectopdf.csproj" -c Release -o /app/publish
 
-# Copia los archivos publicados al contenedor final
-FROM base AS final
+# Imagen final para ejecutar la aplicación
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+
+# Establecemos el directorio de trabajo en la imagen final
 WORKDIR /app
-COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "proyectopdf.dll"]
+
+# Copiamos la publicación desde la imagen de construcción
+COPY --from=build /app/publish .
+
+# Exponemos el puerto en el que la app se ejecutará
+EXPOSE 18444
+
+# Comando para iniciar la aplicación
+ENTRYPOINT ["dotnet", "PROYECTOPDF.dll"]
