@@ -1,32 +1,35 @@
-# Etapa 1: Construcción
+# Build stage
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-
-# Establecer el directorio de trabajo en el contenedor
 WORKDIR /src
 
-# Copiar el archivo .csproj del proyecto PROYECTOPDF al contenedor
-COPY ["PROYECTOPDF/proyectopdf.csproj", "PROYECTOPDF/"]
+# Copy csproj files and restore dependencies
+COPY ["PROYECTOPDF/PROYECTOPDF.csproj", "PROYECTOPDF/"]
+COPY ["NegocioPDF/NegocioPDF.csproj", "NegocioPDF/"]
+RUN dotnet restore "PROYECTOPDF/PROYECTOPDF.csproj"
 
-# Restaurar las dependencias del proyecto
-RUN dotnet restore "PROYECTOPDF/proyectopdf.csproj"
-
-# Copiar el resto del código fuente al contenedor
+# Copy the rest of the files
 COPY . .
 
-# Construir el proyecto
-RUN dotnet build "PROYECTOPDF/proyectopdf.csproj" -c Release -o /app/build
+# Build the application
+WORKDIR "/src/PROYECTOPDF"
+RUN dotnet build "PROYECTOPDF.csproj" -c Release -o /app/build
 
-# Etapa 2: Publicación
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+# Publish stage
+FROM build AS publish
+RUN dotnet publish "PROYECTOPDF.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
-# Establecer el directorio de trabajo para la aplicación
+# Final stage
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
+COPY --from=publish /app/publish .
 
-# Copiar los archivos generados en la etapa anterior
-COPY --from=build /app/build .
+# Set environment variables
+ENV ASPNETCORE_URLS=http://+:80
+ENV ASPNETCORE_ENVIRONMENT=Production
 
-# Exponer el puerto en el que se ejecutará la aplicación
+# Create a non-root user
+RUN useradd -m myappuser && chown -R myappuser:myappuser /app
+USER myappuser
+
 EXPOSE 80
-
-# Establecer el punto de entrada para la aplicación
 ENTRYPOINT ["dotnet", "PROYECTOPDF.dll"]

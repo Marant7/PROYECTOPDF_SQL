@@ -1,0 +1,8 @@
+FROM mcr.microsoft.com/azure-sql-edge
+
+ENV ACCEPT_EULA=Y
+ENV SA_PASSWORD=Password123!
+
+COPY ./docker/sqlserver/init/init.sql /docker-entrypoint-initdb.d/
+
+EXPOSE 1433

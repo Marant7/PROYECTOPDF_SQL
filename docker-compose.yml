@@ -1,63 +1,31 @@
-name: Docker Build and Deploy
+version: '3.8'
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+services:
+  sqlserver:
+    container_name: pdf-sqlserver
+    image: mcr.microsoft.com/azure-sql-edge
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Password123!
+    ports:
+      - "6467:1433"
+    networks:
+      - pdf_network
+  
+  webapp:
+    container_name: pdf-webapp
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - sqlserver
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    networks:
+      - pdf_network
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    services:
-      sqlserver:
-        image: mcr.microsoft.com/mssql/server:latest
-        ports:
-          - 15433:1433
-        env:
-          SA_PASSWORD: Password123!
-          ACCEPT_EULA: Y
-        options: --health-cmd="exit 0" --health-interval=30s --health-timeout=10s --health-retries=3
-
-    steps:
-    - name: Check out repository
-      uses: actions/checkout@v2
-
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v2
-
-    - name: Cache Docker layers
-      uses: actions/cache@v2
-      with:
-        path: /tmp/.buildx-cache
-        key: ${{ runner.os }}-buildx-${{ github.sha }}
-        restore-keys: |
-          ${{ runner.os }}-buildx-
-
-    - name: Build Docker image
-      run: |
-        docker build -t proyectopdf .
-
-    - name: Run Docker container
-      run: |
-        docker run -d -p 5000:80 --name proyectopdf-container proyectopdf
-
-    - name: Wait for SQL Server to be ready
-      run: |
-        sleep 30 # Wait for SQL Server to initialize
-
-    - name: Run application tests
-      run: |
-        # Agrega el comando para ejecutar tus pruebas, por ejemplo:
-        dotnet test
-
-    - name: Deploy Docker container to server (optional)
-      run: |
-        # Este paso es para desplegar la imagen en un servidor remoto si es necesario
-        # Se puede usar Docker o Kubernetes para el despliegue
-        echo "Deployed successfully"
-
-  # Puedes agregar más trabajos para pruebas o despliegue en otros entornos si es necesario
+networks:
+  pdf_network:
+    driver: bridge
