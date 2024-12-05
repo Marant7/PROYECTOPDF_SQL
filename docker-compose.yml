@@ -1,0 +1,15 @@
+version: '3'
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Password123!
+    ports:
+      - "32768:1433"  # Asigna el puerto 32768 en el host al puerto 1433 en el contenedor
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge

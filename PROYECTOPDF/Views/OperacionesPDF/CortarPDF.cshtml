@@ -1,0 +1,77 @@
+<!-- Views/OperacionesPDF/CortarPDF.cshtml -->
+@{
+    ViewData["Title"] = "Cortar PDF";
+    var totalPaginas = TempData["TotalPaginas"] != null ? Convert.ToInt32(TempData["TotalPaginas"]) : 1;
+}
+
+<h2>Cortar PDF</h2>
+
+<!-- Formulario para seleccionar y cargar el archivo PDF -->
+<form id="cargarArchivoForm" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="pdfFile">Seleccione el archivo PDF:</label>
+        <input type="file" id="pdfFile" name="pdfFile" accept=".pdf" class="form-control" required />
+        <button type="button" class="btn btn-info mt-2" id="cargarArchivoBtn">Cargar Archivo</button>
+        <small id="pageCountMessage" class="form-text text-muted mt-2"></small>
+    </div>
+</form>
+
+<!-- Formulario para cortar el PDF -->
+<form asp-action="CortarArchivoPDF" method="post" enctype="multipart/form-data" id="cortarPdfForm" style="display:none;">
+    <input type="hidden" id="rutaArchivoTemp" name="rutaArchivoTemp" />
+    <div class="form-group">
+        <label for="startPage">Página de inicio:</label>
+        <input type="number" id="startPage" name="startPage" class="form-control" required min="1" value="1" />
+    </div>
+    <div class="form-group">
+        <label for="endPage">Página final:</label>
+        <input type="number" id="endPage" name="endPage" class="form-control" required min="1" value="@totalPaginas" />
+    </div>
+    <button type="submit" class="btn btn-primary">Cortar PDF</button>
+    <a asp-action="MenuPrincipal" asp-controller="Suscripcion" class="btn btn-secondary">Regresar al Menú Principal</a>
+</form>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger mt-3">
+        @TempData["Error"]
+    </div>
+}
+
+<script>
+    document.getElementById('cargarArchivoBtn').addEventListener('click', function () {
+        var formData = new FormData();
+        var pdfFile = document.getElementById('pdfFile').files[0];
+
+        if (pdfFile) {
+            formData.append('pdfFile', pdfFile);
+
+            fetch('@Url.Action("CargarArchivoTemporal", "OperacionesPDF")', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Mostrar la cantidad de páginas y habilitar el formulario de corte
+                    document.getElementById('pageCountMessage').innerText = `Este archivo tiene ${data.totalPaginas} páginas.`;
+                    document.getElementById('cortarPdfForm').style.display = "block";
+                    document.getElementById('startPage').max = data.totalPaginas;
+                    document.getElementById('endPage').max = data.totalPaginas;
+                    document.getElementById('endPage').value = data.totalPaginas;
+
+                    // Guardar la ruta del archivo temporal en el campo oculto
+                    document.getElementById('rutaArchivoTemp').value = data.rutaArchivoTemp;
+                } else {
+                    alert(data.error);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert("No se pudo cargar el archivo PDF.");
+            });
+        } else {
+            alert("Por favor, seleccione un archivo PDF antes de cargarlo.");
+        }
+    });
+</script>

@@ -1,0 +1,64 @@
+D:\C#\PRUEBA\NegocioPDF\bin\Debug\net8.0\NegocioPDF.deps.json
+D:\C#\PRUEBA\NegocioPDF\bin\Debug\net8.0\NegocioPDF.dll
+D:\C#\PRUEBA\NegocioPDF\bin\Debug\net8.0\NegocioPDF.pdb
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.AssemblyReference.cache
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\NegocioPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfoInputs.cache
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfo.cs
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.CoreCompileInputs.cache
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\NegocioPDF.dll
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\refint\NegocioPDF.dll
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\NegocioPDF.pdb
+D:\C#\PRUEBA\NegocioPDF\obj\Debug\net8.0\ref\NegocioPDF.dll
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\bin\Debug\net8.0\NegocioPDF.deps.json
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\bin\Debug\net8.0\NegocioPDF.dll
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\bin\Debug\net8.0\NegocioPDF.pdb
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.AssemblyReference.cache
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfoInputs.cache
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfo.cs
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.CoreCompileInputs.cache
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.sourcelink.json
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.dll
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\refint\NegocioPDF.dll
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\NegocioPDF.pdb
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Debug\net8.0\ref\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\bin\Debug\net8.0\NegocioPDF.deps.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\bin\Debug\net8.0\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\bin\Debug\net8.0\NegocioPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.sourcelink.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\refint\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\NegocioPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\NegocioPDF\obj\Debug\net8.0\ref\NegocioPDF.dll
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\bin\Debug\net8.0\NegocioPDF.deps.json
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\bin\Debug\net8.0\NegocioPDF.dll
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\bin\Debug\net8.0\NegocioPDF.pdb
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.AssemblyReference.cache
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfoInputs.cache
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfo.cs
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.CoreCompileInputs.cache
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.sourcelink.json
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.dll
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\refint\NegocioPDF.dll
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\NegocioPDF.pdb
+c:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\NegocioPDF\obj\Debug\net8.0\ref\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\bin\Debug\net8.0\NegocioPDF.deps.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\bin\Debug\net8.0\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\bin\Debug\net8.0\NegocioPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.sourcelink.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\refint\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\NegocioPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\obj\Debug\net8.0\ref\NegocioPDF.dll

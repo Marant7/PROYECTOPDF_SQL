@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PROYECTOPDF
+build_property.RootNamespace = PROYECTOPDF
+build_property.ProjectDir = C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/OperacionesPDF/CortarPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjaW9uZXNQREZcQ29ydGFyUERGLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/OperacionesPDF/FusionarPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjaW9uZXNQREZcRnVzaW9uYXJQREYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/OperacionesPDF/Operaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjaW9uZXNQREZcT3BlcmFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Operaciones/Operaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjaW9uZXNcT3BlcmFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Registration/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXFJlZ2lzdHJhcnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Suscripcion/ComprarPremium.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VzY3JpcGNpb25cQ29tcHJhclByZW1pdW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Suscripcion/MenuPrincipal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VzY3JpcGNpb25cTWVudVByaW5jaXBhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Suscripcion/SeleccionarTipoSuscripcion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VzY3JpcGNpb25cU2VsZWNjaW9uYXJUaXBvU3VzY3JpcGNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mario/Desktop/Nueva carpeta (8)/PROYECTOPDF_MYSQL/proyectopdf/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xh3v0bnge8

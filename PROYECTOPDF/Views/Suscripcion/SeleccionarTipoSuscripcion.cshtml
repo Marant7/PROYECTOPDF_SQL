@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Seleccionar Tipo de Suscripción";
+}
+
+<h2>Seleccionar Tipo de Suscripción</h2>
+
+<form asp-action="SeleccionarTipoSuscripcion" method="post">
+    <div class="form-group">
+        <label for="tipo">Tipo de Suscripción:</label>
+        <select id="tipo" name="tipo" class="form-control">
+            <option value="BASICO">BASICO - 5 Operaciones ($10/mes)</option>
+            <option value="PREMIUM">PREMIUM - Ilimitado ($50/año)</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Confirmar Suscripción</button>
+</form>

@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Operaciones PDF";
+}
+
+<h2>Operaciones PDF</h2>
+
+<div class="container mt-3">
+    <h4>Selecciona una operación para realizar:</h4>
+
+    <div class="mt-4">
+        <form asp-action="FusionarPDF" asp-controller="OperacionesPDF" method="get">
+    <button type="submit" class="btn btn-primary">Fusionar PDF</button>
+    </form>
+    </div>
+
+    <div class="mt-2">
+        <form asp-action="CortarPDF" asp-controller="OperacionesPDF" method="get">
+            <button type="submit" class="btn btn-secondary">Cortar PDF</button>
+        </form>
+    </div>
+</div>

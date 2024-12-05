@@ -1,0 +1,13 @@
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\bin\Release\net8.0\NegocioPDF.deps.json
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\bin\Release\net8.0\NegocioPDF.dll
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\bin\Release\net8.0\NegocioPDF.pdb
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.csproj.AssemblyReference.cache
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.AssemblyInfoInputs.cache
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.AssemblyInfo.cs
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.csproj.CoreCompileInputs.cache
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.sourcelink.json
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.dll
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\refint\NegocioPDF.dll
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\NegocioPDF.pdb
+D:\CALIDAD SOFTWARE\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\NegocioPDF\obj\Release\net8.0\ref\NegocioPDF.dll

@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Inicio de Sesión";
+}
+
+<h2>Inicio de Sesión</h2>
+
+<form asp-action="Login" method="post" class="form-inline">
+    <div class="form-group mb-2">
+        <label for="correo" class="mr-2">Correo:</label>
+        <input type="email" id="correo" name="correo" class="form-control" required />
+    </div>
+    <div class="form-group mb-2">
+        <label for="password" class="mr-2">Contraseña:</label>
+        <input type="password" id="password" name="password" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary mb-2 mr-2">Iniciar Sesión</button>
+    
+    <!-- Botón de Registrarse al lado de Iniciar Sesión -->
+    <a asp-controller="Registration" asp-action="Registrarse" class="btn btn-secondary mb-2">Registrarse</a>
+</form>
+
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger mt-3">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

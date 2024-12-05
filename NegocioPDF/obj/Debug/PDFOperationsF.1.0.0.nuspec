@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PDFOperationsF</id>
+    <version>1.0.0</version>
+    <authors>Mario</authors>
+    <description>Proyecto que permite realizar operaciones de fusión y corte de PDF utilizando .NET Core 8.0.</description>
+    <tags>pdf fusionar cortar dapper</tags>
+    <repository type="git" commit="7ba684fb536584ac3c1eef999c1aebb322cb72e5" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Dapper.Contrib" version="2.0.78" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient" version="5.1.5" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="dapper" version="2.1.35" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\NegocioPDF\bin\Debug\net8.0\NegocioPDF.dll" target="lib\net8.0\NegocioPDF.dll" />
+  </files>
+</package>

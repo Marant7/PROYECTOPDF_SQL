@@ -1,0 +1,26 @@
+<!-- Views/OperacionesPDF/FusionarPDF.cshtml -->
+@{
+    ViewData["Title"] = "Fusionar PDF";
+}
+
+<h2>Fusionar PDF</h2>
+
+<form asp-action="FusionarArchivosPDF" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="archivo1">Seleccione el primer archivo PDF:</label>
+        <input type="file" id="archivo1" name="archivo1" accept=".pdf" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="archivo2">Seleccione el segundo archivo PDF:</label>
+        <input type="file" id="archivo2" name="archivo2" accept=".pdf" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Fusionar PDF</button>
+    <a asp-action="Operaciones" class="btn btn-secondary">Volver al Menú de Operaciones</a>
+</form>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger mt-3">
+        @TempData["Error"]
+    </div>
+}

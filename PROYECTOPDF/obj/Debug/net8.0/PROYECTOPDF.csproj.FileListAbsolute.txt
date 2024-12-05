@@ -1,0 +1,334 @@
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\appsettings.Development.json
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\appsettings.json
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.staticwebassets.runtime.json
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.exe
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.deps.json
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.runtimeconfig.json
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.pdb
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\Dapper.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\Dapper.Contrib.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\Google.Protobuf.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.barcodes.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.forms.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.io.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.kernel.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.layout.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.pdfa.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.pdfua.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.sign.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.svg.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.commons.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\itext.html2pdf.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\MySql.Data.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Charting.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Quality.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Snippets.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.System.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\ZstdSharp.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\de\PdfSharp.resources.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\NegocioPDF.dll
+D:\C#\PRUEBA\PROYECTOPDF\bin\Debug\net8.0\NegocioPDF.pdb
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.csproj.AssemblyReference.cache
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfoInputs.cache
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfo.cs
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.csproj.CoreCompileInputs.cache
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cache
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cs
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.build.json
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.development.json
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.PROYECTOPDF.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.build.PROYECTOPDF.props
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTOPDF.props
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PROYECTOPDF.props
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\scopedcss\bundle\PROYECTOPDF.styles.css
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\scopedcss\projectbundle\PROYECTOPDF.bundle.scp.css
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTO.BF91A7B7.Up2Date
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.dll
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\refint\PROYECTOPDF.dll
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.pdb
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.genruntimeconfig.cache
+D:\C#\PRUEBA\PROYECTOPDF\obj\Debug\net8.0\ref\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\appsettings.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.staticwebassets.runtime.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.exe
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.deps.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.runtimeconfig.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\Dapper.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\Dapper.Contrib.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.forms.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.io.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.layout.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.sign.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.svg.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.commons.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Quality.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Snippets.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.System.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\de\PdfSharp.resources.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\bin\Debug\net8.0\NegocioPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cs
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.sourcelink.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.PROYECTOPDF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.build.PROYECTOPDF.props
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTOPDF.props
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PROYECTOPDF.props
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\scopedcss\bundle\PROYECTOPDF.styles.css
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\scopedcss\projectbundle\PROYECTOPDF.bundle.scp.css
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTO.BF91A7B7.Up2Date
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\refint\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.genruntimeconfig.cache
+C:\Users\Mario\Desktop\Nueva carpeta (3)\proyecto-si784-2024-ii-u1-FloresR_Salinas_ticahuanca\Nueva carpeta\PROYECTOPDF\obj\Debug\net8.0\ref\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfo.cs
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cache
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cs
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.sourcelink.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\refint\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.pdb
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\appsettings.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.staticwebassets.runtime.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.exe
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.deps.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.runtimeconfig.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PROYECTOPDF.pdb
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\Dapper.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\Dapper.Contrib.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.forms.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.io.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.layout.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.sign.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.svg.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.commons.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Quality.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.Snippets.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.System.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\PdfSharp.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\de\PdfSharp.resources.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\NegocioPDF.dll
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\bin\Debug\net8.0\NegocioPDF.pdb
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.PROYECTOPDF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.build.PROYECTOPDF.props
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTOPDF.props
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PROYECTOPDF.props
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\scopedcss\bundle\PROYECTOPDF.styles.css
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\scopedcss\projectbundle\PROYECTOPDF.bundle.scp.css
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTO.BF91A7B7.Up2Date
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\PROYECTOPDF.genruntimeconfig.cache
+C:\Users\Mario\Desktop\PROYECTOPDF_BD2\PROYECTO_PDF\PROYECTOPDF\obj\Debug\net8.0\ref\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\appsettings.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PROYECTOPDF.staticwebassets.runtime.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PROYECTOPDF.exe
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PROYECTOPDF.deps.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PROYECTOPDF.runtimeconfig.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PROYECTOPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Dapper.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Dapper.Contrib.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.forms.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.io.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.layout.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.sign.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.svg.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.commons.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\itext.html2pdf.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PdfSharp.Quality.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PdfSharp.Snippets.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PdfSharp.System.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\PdfSharp.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\de\PdfSharp.resources.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\NegocioPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\bin\Debug\net8.0\NegocioPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.RazorAssemblyInfo.cs
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.sourcelink.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\staticwebassets\msbuild.PROYECTOPDF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\staticwebassets\msbuild.build.PROYECTOPDF.props
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTOPDF.props
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PROYECTOPDF.props
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\scopedcss\bundle\PROYECTOPDF.styles.css
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\scopedcss\projectbundle\PROYECTOPDF.bundle.scp.css
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTO.BF91A7B7.Up2Date
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\refint\PROYECTOPDF.dll
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.pdb
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\PROYECTOPDF.genruntimeconfig.cache
+C:\Users\Mario\Desktop\Nueva carpeta (8)\PROYECTOPDF_MYSQL\proyectopdf\obj\Debug\net8.0\ref\PROYECTOPDF.dll

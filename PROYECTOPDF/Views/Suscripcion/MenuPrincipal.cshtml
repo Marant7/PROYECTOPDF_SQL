@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Menú Principal";
+}
+
+<h2>Menú Principal</h2>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <h4 class="card-title">Bienvenido, @ViewBag.NombreUsuario</h4>
+        <p class="card-text">Tipo de Suscripción: <strong>@ViewBag.TipoSuscripcion</strong></p>
+
+        @if (ViewBag.TipoSuscripcion.Equals("basico", StringComparison.OrdinalIgnoreCase))
+        {
+            <p class="card-text">
+                Operaciones Realizadas: <strong>@ViewBag.OperacionesRealizadas / @ViewBag.MaxOperaciones</strong>
+            </p>
+            <a asp-controller="Suscripcion" asp-action="ComprarPremium" class="btn btn-warning">Comprar Premium</a>
+        }
+        else
+        {
+            <p class="card-text">Operaciones Realizadas: Ilimitadas</p>
+        }
+
+        <a asp-controller="OperacionesPDF" asp-action="Operaciones" class="btn btn-primary">Realizar Operaciones</a>
+
+        <!-- Botón para cerrar sesión -->
+        <a asp-controller="Auth" asp-action="Logout" class="btn btn-danger ">Cerrar Sesión</a>
+
+    </div>
+</div>
+

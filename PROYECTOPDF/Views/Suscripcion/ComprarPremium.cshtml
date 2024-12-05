@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Comprar Suscripción Premium";
+}
+
+<h2>Comprar Suscripción Premium</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Detalles de la Suscripción</h4>
+        <p class="card-text"><strong>Fecha de Inicio:</strong> @ViewBag.FechaInicio</p>
+        <p class="card-text"><strong>Fecha Final:</strong> @ViewBag.FechaFinal</p>
+        <p class="card-text"><strong>Precio:</strong> $@ViewBag.Precio</p>
+
+        <form asp-action="ConfirmarCompra" method="post">
+            <button type="submit" class="btn btn-success">Comprar Suscripción Premium</button>
+            <a asp-action="MenuPrincipal" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>
