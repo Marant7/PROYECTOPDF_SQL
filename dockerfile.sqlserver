@@ -3,6 +3,8 @@ FROM mcr.microsoft.com/azure-sql-edge
 ENV ACCEPT_EULA=Y
 ENV SA_PASSWORD=Password123!
 
-COPY ./docker/sqlserver/init/init.sql /docker-entrypoint-initdb.d/
+# Crear directorio para scripts de inicialización
+WORKDIR /scripts
+COPY ./docker/sqlserver/init/01-init.sql /scripts/init.sql
 
 EXPOSE 1433
