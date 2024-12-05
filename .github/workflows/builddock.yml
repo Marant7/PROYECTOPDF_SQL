@@ -36,6 +36,6 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         context: .
-        file: ./Dockerfile.sqlserver
+        file: ./dockerfile.sqlserver
         push: true
         tags: ${{ secrets.DOCKERHUB_USERNAME }}/pdf-sqlserver:latest
